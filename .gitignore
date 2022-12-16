@@ -12,3 +12,6 @@ coverage.xml
 site
 *.db
 .cache
+
+__pypackages__/
+.pdm.toml
